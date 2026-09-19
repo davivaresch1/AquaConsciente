@@ -30,7 +30,7 @@ O **AquaConsciente** é um script em Python criado para uma campanha de conscien
 ```
 2. Clone este repositório:
 ```bash
-   git clone https://github.com/davivaresch1/aqua-consciente.git
+   git clone https://github.com/davivaresch1/AquaConsciente.git
 ```
 3. Entre na pasta do projeto:
 ```bash
