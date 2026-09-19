@@ -34,7 +34,7 @@ O **AquaConsciente** é um script em Python criado para uma campanha de conscien
 ```
 3. Entre na pasta do projeto:
 ```bash
-   cd aqua-consciente/consumo-agua
+   cd AquaConsciente/consumo-agua
 ```
 4. Execute o programa:
 ```bash
